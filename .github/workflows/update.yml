@@ -1,0 +1,33 @@
+name: F1中文赛历每日更新
+
+on:
+  schedule:
+    - cron: '0 2 * * *'  # 每天凌晨2点运行
+  workflow_dispatch:
+
+jobs:
+  update-calendar:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: 设置Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      
+      - name: 安装依赖
+        run: |
+          pip install requests icalendar
+      
+      - name: 运行F1汉化脚本
+        run: python f1_calendar.py  # 脚本文件名
+        
+      - name: 提交更新
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add f1_2026_chinese.ics
+          git diff --quiet && git diff --staged --quiet || git commit -m "自动更新F1中文赛历 $(date +'%Y-%m-%d')"
+          git push
