@@ -2,7 +2,7 @@ name: F1中文赛历每日更新
 
 on:
   schedule:
-    - cron: '0 2 * * *'  # 每天凌晨2点运行
+    - cron: '0 2 * * 1'  # 每周一凌晨2点（1=周一）
   workflow_dispatch:
 
 jobs:
