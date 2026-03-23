@@ -80,120 +80,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔧 CALLED OFF: 🏎 FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2026 
- - 第一次自由练习赛
-DTSTART:20260417T133000Z
-DTEND:20260417T143000Z
-DTSTAMP:20260317T163137Z
-UID:691e9ac654aa88334d654086
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
- de world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow
-  on the go with F1 TV\nhttps://cal.f1.com/f/28TDpV/3vXKY\n\nVisit the Race
-  Hub\nhttps://cal.f1.com/f/28TDq8/3vXKY\n\nFree sign up to F1 Unlocked\nht
- tps://cal.f1.com/f/28TDqm/3vXKY\n\nDownload the Official F1 Race Programme
-  App\nhttps://cal.f1.com/f/28TDqF/3vXKY\n\nWear your favourite teams colou
- rs with F1 store\nhttps://cal.f1.com/f/28TDqQ/3vXKY\n\nChoose where to wat
- ch a race with F1 Tickets\nhttps://cal.f1.com/f/28TDr3/3vXKY\n\nFollow us 
- on Facebook\nhttps://cal.f1.com/f/28TDrf/3vXKY\n\nFollow us on X\nhttps://
- cal.f1.com/f/28TDrq/3vXKY\n\nFollow us on Instagram\nhttps://cal.f1.com/f/
- 28TDrD/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TDrT/3vXKY\n\n
- Manage my ECAL\nhttps://cal.f1.com/f/28TDsv/3vXKY\n\n
-LAST-MODIFIED:20260317T163137Z
-LOCATION:Saudi Arabia赛道
-PRIORITY:5
-TRANSP:TRANSPARENT
-X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
-X-MICROSOFT-CDO-IMPORTANCE:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🔧 CALLED OFF: 🏎 FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2026 
- - 第二次自由练习赛
-DTSTART:20260417T170000Z
-DTEND:20260417T180000Z
-DTSTAMP:20260317T163137Z
-UID:691e9ac654aa88334d654087
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
- de world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow
-  on the go with F1 TV\nhttps://cal.f1.com/f/28TDsN/3vXKY\n\nVisit the Race
-  Hub\nhttps://cal.f1.com/f/28TDt1/3vXKY\n\nFree sign up to F1 Unlocked\nht
- tps://cal.f1.com/f/28TDt9/3vXKY\n\nDownload the Official F1 Race Programme
-  App\nhttps://cal.f1.com/f/28TDtl/3vXKY\n\nWear your favourite teams colou
- rs with F1 store\nhttps://cal.f1.com/f/28TDty/3vXKY\n\nChoose where to wat
- ch a race with F1 Tickets\nhttps://cal.f1.com/f/28TDtM/3vXKY\n\nFollow us 
- on Facebook\nhttps://cal.f1.com/f/28TDtZ/3vXKY\n\nFollow us on X\nhttps://
- cal.f1.com/f/28TDv9/3vXKY\n\nFollow us on Instagram\nhttps://cal.f1.com/f/
- 28TDvn/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TDvD/3vXKY\n\n
- Manage my ECAL\nhttps://cal.f1.com/f/28TDwl/3vXKY\n\n
-LAST-MODIFIED:20260317T163137Z
-LOCATION:Saudi Arabia赛道
-PRIORITY:5
-TRANSP:TRANSPARENT
-X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
-X-MICROSOFT-CDO-IMPORTANCE:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🔧 CALLED OFF: 🏎 FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2026 
- - 第三次自由练习赛
-DTSTART:20260418T133000Z
-DTEND:20260418T143000Z
-DTSTAMP:20260317T163137Z
-UID:691e9ac654aa88334d654088
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
- de world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow
-  on the go with F1 TV\nhttps://cal.f1.com/f/28TDwF/3vXKY\n\nVisit the Race
-  Hub\nhttps://cal.f1.com/f/28TDwR/3vXKY\n\nFree sign up to F1 Unlocked\nht
- tps://cal.f1.com/f/28TDx4/3vXKY\n\nDownload the Official F1 Race Programme
-  App\nhttps://cal.f1.com/f/28TDxd/3vXKY\n\nWear your favourite teams colou
- rs with F1 store\nhttps://cal.f1.com/f/28TDxt/3vXKY\n\nChoose where to wat
- ch a race with F1 Tickets\nhttps://cal.f1.com/f/28TDxG/3vXKY\n\nFollow us 
- on Facebook\nhttps://cal.f1.com/f/28TDxR/3vXKY\n\nFollow us on X\nhttps://
- cal.f1.com/f/28TDxZ/3vXKY\n\nFollow us on Instagram\nhttps://cal.f1.com/f/
- 28TDy9/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TDym/3vXKY\n\n
- Manage my ECAL\nhttps://cal.f1.com/f/28TDyZ/3vXKY\n\n
-LAST-MODIFIED:20260317T163137Z
-LOCATION:Saudi Arabia赛道
-PRIORITY:5
-TRANSP:TRANSPARENT
-X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
-X-MICROSOFT-CDO-IMPORTANCE:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🔧 🏎 FORMULA 1 AWS HUNGARIAN GRAND PRIX 2026 - 第一次自
  由练习赛
 DTSTART:20260724T113000Z
@@ -215,7 +101,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TzkR/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28Tzl3/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TzlS/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Hungary赛道
+LOCATION:匈牙利（欧洲国家）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -253,7 +139,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TzpB/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TzpR/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TzqG/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Hungary赛道
+LOCATION:匈牙利（欧洲国家）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -291,7 +177,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28Tztd/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28Tztr/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28Tzvy/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Hungary赛道
+LOCATION:匈牙利（欧洲国家）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -328,7 +214,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TzxW/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28Tzyf/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28Tzzc/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Hungary赛道
+LOCATION:匈牙利（欧洲国家）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -365,7 +251,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TzD2/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TzDf/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TzFg/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Hungary赛道
+LOCATION:匈牙利（欧洲国家）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -403,7 +289,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TzHJ/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TzHZ/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TzJN/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Qatar赛道
+LOCATION:卡塔尔（卡塔尔国）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -441,7 +327,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TzMm/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TzMv/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TzNZ/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Qatar赛道
+LOCATION:卡塔尔（卡塔尔国）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -479,7 +365,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TzRx/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TzRK/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TzSN/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Qatar赛道
+LOCATION:卡塔尔（卡塔尔国）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -517,7 +403,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TzWp/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TzWB/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TzXh/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Qatar赛道
+LOCATION:卡塔尔（卡塔尔国）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -554,7 +440,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TzZF/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TzZW/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TB23/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Qatar赛道
+LOCATION:卡塔尔（卡塔尔国）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -592,7 +478,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TyDY/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TyF9/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TyFX/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:China赛道
+LOCATION:china（词语）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -630,7 +516,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TyJq/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TyJJ/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TyKz/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:China赛道
+LOCATION:china（词语）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -668,7 +554,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TyMN/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TyN4/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TyNQ/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:China赛道
+LOCATION:china（词语）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -706,7 +592,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TyR1/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TyRf/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TyS7/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:China赛道
+LOCATION:china（词语）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -743,7 +629,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TyVj/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TyVC/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TyWp/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:China赛道
+LOCATION:china（词语）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -1273,7 +1159,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TB4B/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TB4X/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TB5V/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Japan赛道
+LOCATION:日本（日本国）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -1311,7 +1197,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TB8N/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TB93/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TBb5/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Japan赛道
+LOCATION:日本（日本国）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -1349,7 +1235,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TBhH/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TBhZ/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TBjC/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Japan赛道
+LOCATION:日本（日本国）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -1387,7 +1273,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TBmM/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TBmZ/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TBnM/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Japan赛道
+LOCATION:日本（日本国）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -1804,7 +1690,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TD9b/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TD9m/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TDb9/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:United Kingdom赛道
+LOCATION:UnitedKingdom（UnitedKingdom）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -1842,7 +1728,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TDd7/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TDdl/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TDfb/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:United Kingdom赛道
+LOCATION:UnitedKingdom（UnitedKingdom）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -1880,7 +1766,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TDh6/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TDhh/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TDj3/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:United Kingdom赛道
+LOCATION:UnitedKingdom（UnitedKingdom）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -1918,7 +1804,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TDkP/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TDl3/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TDlN/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:United Kingdom赛道
+LOCATION:UnitedKingdom（UnitedKingdom）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -1955,159 +1841,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TDnL/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TDp1/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TDpH/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:United Kingdom赛道
-PRIORITY:5
-TRANSP:TRANSPARENT
-X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
-X-MICROSOFT-CDO-IMPORTANCE:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🔧 CALLED OFF: 🏎 FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2026 -
-  第一次自由练习赛
-DTSTART:20260410T113000Z
-DTEND:20260410T123000Z
-DTSTAMP:20260317T163137Z
-UID:691e9ac654aa88334d65407c
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
- de world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow
-  on the go with F1 TV\nhttps://cal.f1.com/f/28TCMV/3vXKY\n\nVisit the Race
-  Hub\nhttps://cal.f1.com/f/28TCNb/3vXKY\n\nFree sign up to F1 Unlocked\nht
- tps://cal.f1.com/f/28TCNn/3vXKY\n\nDownload the Official F1 Race Programme
-  App\nhttps://cal.f1.com/f/28TCNF/3vXKY\n\nWear your favourite teams colou
- rs with F1 store\nhttps://cal.f1.com/f/28TCNW/3vXKY\n\nChoose where to wat
- ch a race with F1 Tickets\nhttps://cal.f1.com/f/28TCPd/3vXKY\n\nFollow us 
- on Facebook\nhttps://cal.f1.com/f/28TCPn/3vXKY\n\nFollow us on X\nhttps://
- cal.f1.com/f/28TCPD/3vXKY\n\nFollow us on Instagram\nhttps://cal.f1.com/f/
- 28TCPS/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TCQ6/3vXKY\n\n
- Manage my ECAL\nhttps://cal.f1.com/f/28TCR2/3vXKY\n\n
-LAST-MODIFIED:20260317T163137Z
-LOCATION:Bahrain赛道
-PRIORITY:5
-TRANSP:TRANSPARENT
-X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
-X-MICROSOFT-CDO-IMPORTANCE:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🔧 CALLED OFF: 🏎 FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2026 -
-  第三次自由练习赛
-DTSTART:20260411T123000Z
-DTEND:20260411T133000Z
-DTSTAMP:20260317T163137Z
-UID:691e9ac654aa88334d65407e
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
- de world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow
-  on the go with F1 TV\nhttps://cal.f1.com/f/28TCWj/3vXKY\n\nVisit the Race
-  Hub\nhttps://cal.f1.com/f/28TCWv/3vXKY\n\nFree sign up to F1 Unlocked\nht
- tps://cal.f1.com/f/28TCWQ/3vXKY\n\nDownload the Official F1 Race Programme
-  App\nhttps://cal.f1.com/f/28TCX4/3vXKY\n\nWear your favourite teams colou
- rs with F1 store\nhttps://cal.f1.com/f/28TCXr/3vXKY\n\nChoose where to wat
- ch a race with F1 Tickets\nhttps://cal.f1.com/f/28TCXH/3vXKY\n\nFollow us 
- on Facebook\nhttps://cal.f1.com/f/28TCXY/3vXKY\n\nFollow us on X\nhttps://
- cal.f1.com/f/28TCYg/3vXKY\n\nFollow us on Instagram\nhttps://cal.f1.com/f/
- 28TCYz/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TCYL/3vXKY\n\n
- Manage my ECAL\nhttps://cal.f1.com/f/28TCZK/3vXKY\n\n
-LAST-MODIFIED:20260317T163137Z
-LOCATION:Bahrain赛道
-PRIORITY:5
-TRANSP:TRANSPARENT
-X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
-X-MICROSOFT-CDO-IMPORTANCE:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏱️ CALLED OFF: ⏱️ FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 20
- 26 - 排位赛
-DTSTART:20260411T160000Z
-DTEND:20260411T170000Z
-DTSTAMP:20260317T163137Z
-UID:691e9ac654aa88334d65407f
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
- de world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow
-  on the go with F1 TV\nhttps://cal.f1.com/f/28TD12/3vXKY\n\nVisit the Race
-  Hub\nhttps://cal.f1.com/f/28TD17/3vXKY\n\nFree sign up to F1 Unlocked\nht
- tps://cal.f1.com/f/28TD1q/3vXKY\n\nDownload the Official F1 Race Programme
-  App\nhttps://cal.f1.com/f/28TD1D/3vXKY\n\nWear your favourite teams colou
- rs with F1 store\nhttps://cal.f1.com/f/28TD1R/3vXKY\n\nChoose where to wat
- ch a race with F1 Tickets\nhttps://cal.f1.com/f/28TD24/3vXKY\n\nFollow us 
- on Facebook\nhttps://cal.f1.com/f/28TD2g/3vXKY\n\nFollow us on X\nhttps://
- cal.f1.com/f/28TD2s/3vXKY\n\nFollow us on Instagram\nhttps://cal.f1.com/f/
- 28TD2G/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TD2V/3vXKY\n\n
- Manage my ECAL\nhttps://cal.f1.com/f/28TD3M/3vXKY\n\n
-LAST-MODIFIED:20260317T163137Z
-LOCATION:Bahrain赛道
-PRIORITY:5
-TRANSP:TRANSPARENT
-X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
-X-MICROSOFT-CDO-IMPORTANCE:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏁 CALLED OFF: 🏁 FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2026 -
-  正赛
-DTSTART:20260412T150000Z
-DTEND:20260412T170000Z
-DTSTAMP:20260317T163137Z
-UID:691e9ac654aa88334d654080
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
- de world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow
-  on the go with F1 TV\nhttps://cal.f1.com/f/28TD47/3vXKY\n\nVisit the Race
-  Hub\nhttps://cal.f1.com/f/28TD4h/3vXKY\n\nFree sign up to F1 Unlocked\nht
- tps://cal.f1.com/f/28TD4s/3vXKY\n\nDownload the Official F1 Race Programme
-  App\nhttps://cal.f1.com/f/28TD4F/3vXKY\n\nWear your favourite teams colou
- rs with F1 store\nhttps://cal.f1.com/f/28TD4X/3vXKY\n\nChoose where to wat
- ch a race with F1 Tickets\nhttps://cal.f1.com/f/28TD59/3vXKY\n\nFollow us 
- on Facebook\nhttps://cal.f1.com/f/28TD5r/3vXKY\n\nFollow us on X\nhttps://
- cal.f1.com/f/28TD5C/3vXKY\n\nFollow us on Instagram\nhttps://cal.f1.com/f/
- 28TD5R/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TD65/3vXKY\n\n
- Manage my ECAL\nhttps://cal.f1.com/f/28TD6T/3vXKY\n\n
-LAST-MODIFIED:20260317T163137Z
-LOCATION:Bahrain赛道
+LOCATION:UnitedKingdom（UnitedKingdom）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -2145,7 +1879,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TDJM/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TDJX/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TDKN/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Belgium赛道
+LOCATION:比利时
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -2183,7 +1917,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TDQQ/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TDR4/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TDRP/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Belgium赛道
+LOCATION:比利时
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -2221,7 +1955,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TDTg/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TDTm/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TDV3/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Belgium赛道
+LOCATION:比利时
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -2259,7 +1993,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TDWX/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TDX6/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TDXN/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Belgium赛道
+LOCATION:比利时
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -2297,7 +2031,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TFgs/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TFgF/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TFh9/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Azerbaijan赛道
+LOCATION:阿塞拜疆
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -2335,7 +2069,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TFkd/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TFkq/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TFl9/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Azerbaijan赛道
+LOCATION:阿塞拜疆
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -2373,7 +2107,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TFnf/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TFnt/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TFp9/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Azerbaijan赛道
+LOCATION:阿塞拜疆
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -2411,7 +2145,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TFqH/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TFqS/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TFrs/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Azerbaijan赛道
+LOCATION:阿塞拜疆
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -2449,7 +2183,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TDZC/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TDZP/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TF1q/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Canada赛道
+LOCATION:Canada（Canada）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -2487,7 +2221,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TF8n/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TF8w/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TF9b/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Canada赛道
+LOCATION:Canada（Canada）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -2524,7 +2258,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TFcs/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TFcG/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TFdv/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Canada赛道
+LOCATION:Canada（Canada）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -2562,7 +2296,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TFR3/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TFRj/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TFRQ/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Singapore赛道
+LOCATION:新加坡（新加坡共和国）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -2600,7 +2334,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TFTF/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TFTQ/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TFVq/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Singapore赛道
+LOCATION:新加坡（新加坡共和国）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -2638,7 +2372,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TG1c/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TG1q/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TG29/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Singapore赛道
+LOCATION:新加坡（新加坡共和国）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -2676,7 +2410,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TG3S/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TG41/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TG4D/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Singapore赛道
+LOCATION:新加坡（新加坡共和国）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -2714,7 +2448,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TFwK/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TFwY/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TFxV/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Monaco赛道
+LOCATION:Monaco
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -2752,7 +2486,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TFBN/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TFC1/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TFCN/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Monaco赛道
+LOCATION:Monaco
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -2790,7 +2524,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TFFw/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TFFJ/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TFGl/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Monaco赛道
+LOCATION:Monaco
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -2828,7 +2562,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TFJn/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TFJB/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TFKm/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Monaco赛道
+LOCATION:Monaco
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -2866,7 +2600,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TFMh/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TFMs/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TFP4/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Monaco赛道
+LOCATION:Monaco
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -3094,7 +2828,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TGlV/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TGm9/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TGmR/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Spain赛道
+LOCATION:Spain
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -3132,7 +2866,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TGq7/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TGqm/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TGr3/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Spain赛道
+LOCATION:Spain
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -3170,7 +2904,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TGt2/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TGtd/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TGv2/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Spain赛道
+LOCATION:Spain
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -3208,7 +2942,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TGx2/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TGxk/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TGyb/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Spain赛道
+LOCATION:Spain
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -3246,7 +2980,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TGBc/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TGBr/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TGCc/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Spain赛道
+LOCATION:Spain
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -3284,7 +3018,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TGDY/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TGFb/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TGFL/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Italy赛道
+LOCATION:Italy
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -3322,7 +3056,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TGHx/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TGHF/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TGJd/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Italy赛道
+LOCATION:Italy
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -3360,7 +3094,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TGLt/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TGLz/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TGMv/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Italy赛道
+LOCATION:Italy
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -3398,7 +3132,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TGNy/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TGNN/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TGPg/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Italy赛道
+LOCATION:Italy
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -3435,7 +3169,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TGQF/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TGQM/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TGRf/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Italy赛道
+LOCATION:Italy
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -3473,7 +3207,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TGSG/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TGST/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TGTp/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Spain赛道
+LOCATION:Spain
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -3511,7 +3245,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TGW4/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TGWg/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TGWP/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Spain赛道
+LOCATION:Spain
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -3549,7 +3283,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TGYc/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TGYr/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TGZ1/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Spain赛道
+LOCATION:Spain
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -3587,7 +3321,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TH1y/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TH1L/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TH2b/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Spain赛道
+LOCATION:Spain
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -3624,7 +3358,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TH3B/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TH3M/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TH4g/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Spain赛道
+LOCATION:Spain
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -3662,7 +3396,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TH5J/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TH5T/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TH6s/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Mexico赛道
+LOCATION:Mexico（墨西哥的英文名称）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -3700,7 +3434,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TH7x/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TH7C/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TH81/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Mexico赛道
+LOCATION:Mexico（墨西哥的英文名称）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -3738,7 +3472,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28THbZ/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28THc7/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28THcv/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Mexico赛道
+LOCATION:Mexico（墨西哥的英文名称）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -3776,7 +3510,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28THdK/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28THdS/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28THfh/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Mexico赛道
+LOCATION:Mexico（墨西哥的英文名称）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -3814,7 +3548,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28THgv/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28THgB/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28THh2/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Brazil赛道
+LOCATION:Brazil（Brazil）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -3852,7 +3586,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28THjj/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28THjq/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28THjQ/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Brazil赛道
+LOCATION:Brazil（Brazil）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -3890,7 +3624,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28THkV/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28THl3/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28THlG/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Brazil赛道
+LOCATION:Brazil（Brazil）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -3928,7 +3662,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28THnj/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28THns/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28THnP/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Brazil赛道
+LOCATION:Brazil（Brazil）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -3966,7 +3700,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28THqk/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28THqx/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28THr2/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Brazil赛道
+LOCATION:Brazil（Brazil）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -4193,7 +3927,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TFt8/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TFtm/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TFv3/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Azerbaijan赛道
+LOCATION:阿塞拜疆
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -4231,7 +3965,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TH9j/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TH9q/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TH9N/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Mexico赛道
+LOCATION:Mexico（墨西哥的英文名称）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -4268,121 +4002,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TBdB/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TBdR/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TBfs/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Japan赛道
-PRIORITY:5
-TRANSP:TRANSPARENT
-X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
-X-MICROSOFT-CDO-IMPORTANCE:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🔧 CALLED OFF: 🏎 FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2026 -
-  第二次自由练习赛
-DTSTART:20260410T150000Z
-DTEND:20260410T160000Z
-DTSTAMP:20260317T163137Z
-UID:691e9ac654aa88334d65407d
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
- de world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow
-  on the go with F1 TV\nhttps://cal.f1.com/f/28TCRl/3vXKY\n\nVisit the Race
-  Hub\nhttps://cal.f1.com/f/28TCRD/3vXKY\n\nFree sign up to F1 Unlocked\nht
- tps://cal.f1.com/f/28TCRT/3vXKY\n\nDownload the Official F1 Race Programme
-  App\nhttps://cal.f1.com/f/28TCSd/3vXKY\n\nWear your favourite teams colou
- rs with F1 store\nhttps://cal.f1.com/f/28TCSw/3vXKY\n\nChoose where to wat
- ch a race with F1 Tickets\nhttps://cal.f1.com/f/28TCSM/3vXKY\n\nFollow us 
- on Facebook\nhttps://cal.f1.com/f/28TCT3/3vXKY\n\nFollow us on X\nhttps://
- cal.f1.com/f/28TCTk/3vXKY\n\nFollow us on Instagram\nhttps://cal.f1.com/f/
- 28TCTF/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TCTS/3vXKY\n\n
- Manage my ECAL\nhttps://cal.f1.com/f/28TCVY/3vXKY\n\n
-LAST-MODIFIED:20260317T163137Z
-LOCATION:Bahrain赛道
-PRIORITY:5
-TRANSP:TRANSPARENT
-X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
-X-MICROSOFT-CDO-IMPORTANCE:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏱️ CALLED OFF: ⏱️ FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2
- 026 - 排位赛
-DTSTART:20260418T170000Z
-DTEND:20260418T180000Z
-DTSTAMP:20260317T163137Z
-UID:691e9ac654aa8835064628f4
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
- de world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow
-  on the go with F1 TV\nhttps://cal.f1.com/f/28TDzn/3vXKY\n\nVisit the Race
-  Hub\nhttps://cal.f1.com/f/28TDzz/3vXKY\n\nFree sign up to F1 Unlocked\nht
- tps://cal.f1.com/f/28TDzT/3vXKY\n\nDownload the Official F1 Race Programme
-  App\nhttps://cal.f1.com/f/28TDB2/3vXKY\n\nWear your favourite teams colou
- rs with F1 store\nhttps://cal.f1.com/f/28TDBd/3vXKY\n\nChoose where to wat
- ch a race with F1 Tickets\nhttps://cal.f1.com/f/28TDBr/3vXKY\n\nFollow us 
- on Facebook\nhttps://cal.f1.com/f/28TDBD/3vXKY\n\nFollow us on X\nhttps://
- cal.f1.com/f/28TDBP/3vXKY\n\nFollow us on Instagram\nhttps://cal.f1.com/f/
- 28TDC3/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TDCg/3vXKY\n\n
- Manage my ECAL\nhttps://cal.f1.com/f/28TDCW/3vXKY\n\n
-LAST-MODIFIED:20260317T163137Z
-LOCATION:Saudi Arabia赛道
-PRIORITY:5
-TRANSP:TRANSPARENT
-X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
-X-MICROSOFT-CDO-IMPORTANCE:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏁 CALLED OFF: 🏁 FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2026 
- - 正赛
-DTSTART:20260419T170000Z
-DTEND:20260419T190000Z
-DTSTAMP:20260317T163137Z
-UID:691e9ac654aa8835064628f5
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
- de world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow
-  on the go with F1 TV\nhttps://cal.f1.com/f/28TDD8/3vXKY\n\nVisit the Race
-  Hub\nhttps://cal.f1.com/f/28TDDm/3vXKY\n\nFree sign up to F1 Unlocked\nht
- tps://cal.f1.com/f/28TDDy/3vXKY\n\nDownload the Official F1 Race Programme
-  App\nhttps://cal.f1.com/f/28TDDQ/3vXKY\n\nWear your favourite teams colou
- rs with F1 store\nhttps://cal.f1.com/f/28TDF3/3vXKY\n\nChoose where to wat
- ch a race with F1 Tickets\nhttps://cal.f1.com/f/28TDFn/3vXKY\n\nFollow us 
- on Facebook\nhttps://cal.f1.com/f/28TDFz/3vXKY\n\nFollow us on X\nhttps://
- cal.f1.com/f/28TDFP/3vXKY\n\nFollow us on Instagram\nhttps://cal.f1.com/f/
- 28TDG5/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TDGm/3vXKY\n\n
- Manage my ECAL\nhttps://cal.f1.com/f/28TDH1/3vXKY\n\n
-LAST-MODIFIED:20260317T163137Z
-LOCATION:Saudi Arabia赛道
+LOCATION:日本（日本国）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -4420,7 +4040,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TDMX/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TDNd/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TDNZ/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Belgium赛道
+LOCATION:比利时
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -4458,7 +4078,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TF3s/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TF3G/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TF48/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Canada赛道
+LOCATION:Canada（Canada）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -4496,7 +4116,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TF5Z/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TF6f/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TF72/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Canada赛道
+LOCATION:Canada（Canada）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
@@ -4534,7 +4154,7 @@ DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insi
  28TFXr/3vXKY\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28TFXF/3vXKY\n\n
  Manage my ECAL\nhttps://cal.f1.com/f/28TFYm/3vXKY\n\n
 LAST-MODIFIED:20260317T163137Z
-LOCATION:Singapore赛道
+LOCATION:新加坡（新加坡共和国）
 PRIORITY:5
 TRANSP:TRANSPARENT
 X-ECAL-SCHEDULE:63ed7a844c410f0c6145ea62
